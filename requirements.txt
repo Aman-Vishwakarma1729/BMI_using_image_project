@@ -1,3 +1,9 @@
 requests
 bs4
 pandas
+matplotlib
+numpy
+seaborn
+warnings
+scikit-learn
+tensorflow
